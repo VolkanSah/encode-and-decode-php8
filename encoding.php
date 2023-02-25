@@ -1,3 +1,4 @@
+<?php
 
 // Read file contents into a string
 $fileContents = file_get_contents('path/to/file.txt');
