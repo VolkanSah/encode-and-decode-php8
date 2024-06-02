@@ -1,5 +1,5 @@
 
-####  Simple Example of How to Encode and Decode Files in PHP 8 Using the Built-in Sodium Extension
+#  Simple Example of How to Encode and Decode Files in PHP 8 Using the Built-in Sodium Extension
 
 This guide provides examples of how to encrypt and decrypt files using PHP's Sodium extension, which offers modern cryptographic functions.
 
